@@ -42,3 +42,10 @@ Projeto de cofre eletrônico que utiliza um **encoder rotativo** para entrada de
 
 ```cpp
 String senhaCorreta = "AABBA";
+```
+---
+
+## 📜 Licença
+
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
+
